@@ -3,6 +3,8 @@ openapi: 3.0.3
 info:
   title: Children's Clothing & Toys Online Store API
   description: |
+    Made by: Nikola Vasilev 2401321039
+    
     REST API specification for an online store selling children's clothing and toys.
 
     Covers the full set of services that will be implemented as the course project:
